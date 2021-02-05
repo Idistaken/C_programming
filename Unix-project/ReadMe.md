@@ -43,5 +43,5 @@ gcc -pthread gmult.c aes.c mainAES.c md5.c Client.c -o demoClient -w
 ./demoClient in the new terminal .
 
 <p align="center">
-  <img src="/Users/manishkumar/Desktop/programming/UnixNetWorkProgramming/project/Screenshot 2021-01-23 at 1.11.52 PM.png" height="500" width="350">
+  <img src="Screenshot 2021-01-23 at 1.11.52 PM.png" height="350" width="500">
 </p>
