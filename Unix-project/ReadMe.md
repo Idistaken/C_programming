@@ -43,8 +43,7 @@ gcc -pthread gmult.c aes.c mainAES.c md5.c Client.c -o demoClient -w
 ./demoClient in the new terminal .
 
 <p align="center">
-  <img src="Screenshot 2021-01-23 at 1.49.48 PM.png" height="250" width="300">
-  <img src="Screenshot 2021-02-05 at 8.57.18 PM.png" height="20" width="300">
+  <img src="Screenshot 2021-02-05 at 8.59.45 PM.png" height="250" width="300">
 </p>
 
 ## Showing sending and receiving of text with encryption and hashing
