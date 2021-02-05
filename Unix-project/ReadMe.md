@@ -35,9 +35,13 @@ value before accepting the data.
 gcc -pthread gmult.c aes.c mainAES.c md5.c Server.c -o demoServer -w
 2. Run Server with Command :
 ./demoServer
-3. rd Compile Client with Command :
+3. Run Compile Client with Command :
 gcc -pthread gmult.c aes.c mainAES.c md5.c Client.c -o demoClient -w
 4. Run Client with Command :
 ./demoClient
 5. Now you can connect as many clients as you want just by running
 ./demoClient in the new terminal .
+
+<p align="center">
+  <img src="/Users/manishkumar/Desktop/programming/UnixNetWorkProgramming/project/Screenshot 2021-01-23 at 1.11.52 PM.png" height="500" width="350">
+</p>
